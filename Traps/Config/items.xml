@@ -1,0 +1,17 @@
+<configs>
+
+      <remove xpath="/items/item[@name='meleeToolClawHammer']/property[@class='Action1']"/>
+
+
+      <append xpath="/items/item[@name='meleeToolClawHammer']">
+	<property class="Action1"> 
+		<property name="Class" value="Repair"/>
+		<property name="Delay" value=".64"/> 
+		<property name="Repair_amount" value="250"/>
+		<property name="Upgrade_hit_offset" value="-3"/>
+		<property name="Sound_start" value="repair_block"/>
+		<property name="Allowed_upgrade_items" value="resourceAcid,thrownAmmoMolotovCocktail,resourceWood,resourceClayLump,resourceSnowBall,resourceScrapIron,resourceForgedIron,resourceForgedSteel,resourceConcreteMix,resourceCobblestones,resourceYuccaFibers,resourceCloth,resourceScrapPolymers,resourceNail"/>
+		<property name="UsePowerAttackAnimation" value="false"/>
+	</property>
+    </append>
+</configs>
