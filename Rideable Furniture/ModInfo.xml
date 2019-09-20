@@ -2,8 +2,8 @@
 <xml>
 	<ModInfo>
 		<Name value="Rideable Furniture" />
-		<Description value="chair" />
-		<Author value="OignonChaud Moongaming" />
+		<Description value="Adds a Skateboard, a Kick-scooter and an office chair as rideable vehicles" />
+		<Author value="Moong oignonchaud" />
 		<Version value="1" />
 		<Website value="" />
 	</ModInfo>
