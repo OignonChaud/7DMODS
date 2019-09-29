@@ -33,6 +33,27 @@
 	<ingredient name="resourceAcid" count="10"/>
 </recipe>
 
+<recipe name="C4 Bomb" count="1" craft_area="workbench" craft_time="10">
+	<ingredient name="resourceForgedIron" count="2"/>
+	<ingredient name="resourceMechanicalParts" count="2"/>
+	<ingredient name="resourceGunPowder" count="25"/>
+	<ingredient name="resourceDuctTape" count="1"/>
+	<ingredient name="resourceElectricParts" count="2"/>
+</recipe>
+
+<recipe name="Proximity Mine" count="1" craft_area="workbench" craft_time="5">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="2"/>
+	<ingredient name="resourceGunPowder" count="20"/>
+	<ingredient name="resourceElectricParts" count="2"/>
+</recipe>
+
+<recipe name="Claymore" count="1" craft_area="workbench" craft_time="5">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceGunPowder" count="15"/>
+</recipe>
+
 
 
 		</append>

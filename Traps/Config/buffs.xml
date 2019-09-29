@@ -22,6 +22,11 @@
 			</effect_group>
 	</buff>
 	
+						<buff name="bufftimer">
+		<stack_type value="replace"/>
+		<duration value="2"/>
+	</buff>
+	
 				<!-- //BEAR TRAP -->
 		<buff name="buffBearTrap">
 		<damage_type value="electrical"/>
